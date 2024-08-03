@@ -1,4 +1,5 @@
 TR
+
 Basit bir web sunucusu kısaca manager'ın tuttuğu çeşitli bilgileri aşağıda detaylı görebilirsiniz. Web üzerinde göstererek bir veye birden çok hesabınızı kolaylıkla takip etmenize yarıyor.
 
 Kurulum:
@@ -25,6 +26,7 @@ http://localhost:4050 urline tarayıcıdan giderek kullanmaya başlayabilirsiniz
 Dipnot: Eğer Vds veya açık bir portunuz varsa port ayarını güncelleyip her yerden erişim sağlayarak kullanabilirsiniz.
 
 EN
+
 A simple web server that allows you to easily track one or multiple accounts by displaying various information managed by the manager on the web.
 
 Installation:
