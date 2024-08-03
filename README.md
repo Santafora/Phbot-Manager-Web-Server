@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/718e4853-1af4-4621-bdc5-4e6d65da9329)
+
+
+
 EN
 
 A simple web server that allows you to easily track one or multiple accounts by displaying various information managed by the manager on the web.
