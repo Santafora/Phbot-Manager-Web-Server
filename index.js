@@ -48,8 +48,8 @@ const filterData = (data) => {
     };
 
     const sanitizeInt = (value) => {
-        const parsed = Number(value);
-        return Number.isInteger(parsed) ? parsed : 0;
+        const parsed = parseInt(value);
+        return isNaN(parsed) ? 0 : parsed;
     };
 
     const sanitizeString = (value) => {
