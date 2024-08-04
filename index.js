@@ -365,13 +365,13 @@ app.get('/', (req, res) => {
                     </div>
                     <p>Bot: ${character.botting ? "Start" : "Stop"}</p>
                     <p>Character: ${character.connected ? "Online" : "Offline"}</p>
-                    <p>EXP/hr: ${character.exp_hour.toFixed(2)}</p>
-                    <p>SP/hr: ${character.sp_hour.toFixed(2)}</p>
+                    <p>EXP/hr: ${character.exp_hour}</p>
+                    <p>SP/hr: ${character.sp_hour}</p>
                     <p>Kill: ${character.kill_count}</p>
                     <p>Dead: ${character.death_count}</p>
                     <p>Drops: ${character.drops}</p>
                     <p>Gold: ${character.gold.toLocaleString()}</p>
-                    <p>Next level/hr: ${character.time_to_level.toFixed(2)}</p>
+                    <p>Next level/hr: ${character.time_to_level}</p>
                     <p>${character.timestamp}</p>
                 </div>
                 `;
