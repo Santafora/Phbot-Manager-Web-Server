@@ -17,9 +17,6 @@ Upload Interval (optional, you can change it): 10000
 
 Check the Enabled option and click the Save button to save the settings.
 
-![image](https://github.com/user-attachments/assets/2b485b7b-4087-4a0c-825a-c82fcc4477db)
-
-![image](https://github.com/user-attachments/assets/14026a1b-2f63-4f83-b90b-cc760012a180)
 
 Web Server;
 You need Node.js. To download: [Nodejs](https://nodejs.org/en/download/prebuilt-installer)
@@ -35,7 +32,9 @@ You can start using it by going to http://localhost:4050 in your browser.
 Note: If you have a VDS or an open port, you can update the port settings to access and use it from anywhere.
 ```
 
+![image](https://github.com/user-attachments/assets/2b485b7b-4087-4a0c-825a-c82fcc4477db)
 
+![image](https://github.com/user-attachments/assets/14026a1b-2f63-4f83-b90b-cc760012a180)
 
 TR
 
@@ -51,10 +50,6 @@ URI :http://localhost:4050/
 Upload Interval(isteğe bağlı değiştirebilirsiniz) :10000
 
 ve Enabled seçeneğini tikleyerek Save butonuna basarak kaydediyoruz.
-
-![image](https://github.com/user-attachments/assets/2b485b7b-4087-4a0c-825a-c82fcc4477db)
-
-![image](https://github.com/user-attachments/assets/14026a1b-2f63-4f83-b90b-cc760012a180)
 
 
 Web Server;
